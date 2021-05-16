@@ -62,7 +62,8 @@
   Active users and total money managed is the biggets metrics.
   
 * How is your company performing relative to competitors in the same domain?
-
+  Top of the group.
+  
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
